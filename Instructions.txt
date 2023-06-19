@@ -1,0 +1,11 @@
+Develop Event Driven Application on AWS using Event Bus and Rules and Lambda trigger:
+
+>> Create a custom event Bus first.
+>> Add a rule to create a cutomized event pattern to trigger the targets, which are the lambda function.
+>> Add the event pattern on the event pattern area box.
+>> Now add the Hello World lambda function as the triggers.
+>> When you execute the Trigger code with correct event pattern, the event bus rule will filter the event pattern and triiger the target function.
+>> Check the log groups for lambda to verify, the target function will be executed.
+
+
+Video link : https://www.youtube.com/watch?v=kwgbtLdfVEc
